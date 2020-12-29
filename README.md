@@ -13,4 +13,4 @@ Banana collection is an episodic game. To solve this task, the agent is required
 - Follow instructions on how to enable a [Virtual Screen](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Training-on-Amazon-Web-Service.md)
 ### 4. Instructions
 - Run [Navigation.ipynb](/Navigation.ipynb)
-- See my trained agent collecting bananas on YouTube ([link](https://www.youtube.com/watch?v=YRjJCcCDLC8)) and you are mostly welcome to leave comments below :peach:
+- See an [untrained version](https://youtu.be/tCtFOyoverk) and my trained agent collecting bananas on YouTube ([link](https://www.youtube.com/watch?v=YRjJCcCDLC8)). You are mostly welcome to leave comments below :peach:
