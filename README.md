@@ -5,7 +5,7 @@ This project focuses on training an agent that navigates across a square game bo
 - `2` - turn left
 - `3` - turn right
 ### 2. When the environment is considered solved
-Banana collection is an episodic game. To solve this task, the agent is required to secure an average score of at least +13 points over 100 consecutive episodes.
+Banana collection is an **episodic game**. To solve this task, the agent is required to secure an average score of at least +13 points over 100 consecutive episodes.
 ### 3. How to get start
 - Gain a basic understanding of [Unity Environment](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#banana-collector)
 - Set up a Python 3.6 Environment to install [Dependencies](https://github.com/udacity/deep-reinforcement-learning#dependencies) involving PyTorch, the ML-Agent toolkit and a few more Python packages.
