@@ -14,4 +14,4 @@ Banana collection is an episodic game. To solve this task, the agent is required
 ### 4. Instructions
 - Run [Navigation.ipynb](/Navigation.ipynb)
 - See an [untrained version](https://youtu.be/tCtFOyoverk) and my [trained agent](https://www.youtube.com/watch?v=YRjJCcCDLC8) collecting bananas on YouTube.
-You are mostly welcome to leave comments below :peach:.
+You are mostly welcome to leave comments below.
