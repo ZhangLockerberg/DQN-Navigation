@@ -1,4 +1,4 @@
-### 1. Project Details about Environment
+### 1. Project Details
 This project focuses on training an agent that navigates across a square game board, where yellow and blue bananas are scattered. The task is to collect as many yellow bananas as possible and avoid collecting blue bananas. Thus, for each time when a yellow banana is collected the agent will be given with +1 reward, but with -1 reward if a blue banana is collected. The agent is allowed to take four discrete actions (find the keys on your keyboard) when the state is continuous:
 - `0` - move forward
 - `1` - move backward
